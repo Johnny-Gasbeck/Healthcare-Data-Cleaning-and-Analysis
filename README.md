@@ -1,4 +1,7 @@
-## Explanation of Each Column
+# Healthcare Data
+
+## Columns in the dataset
+
 
 Name: This column represents the name of the patient associated with the healthcare record.
 Age: The age of the patient at the time of admission, expressed in years.
