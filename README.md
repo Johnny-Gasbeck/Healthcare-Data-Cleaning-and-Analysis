@@ -39,5 +39,5 @@ After cleaning, I analyzed **patient demographics**, **admission trends, and bil
 ## Key Findings
 1. Emergency admissions had the longest average hospital stay.
 2. Obesity had the greatest average billing amount. 
-3. The hospital that handles the most cases with Abnormal test results was Smith Group.
+3. The hospital that handled the most cases with Abnormal test results was Smith Group.
 4. There was no statistically significant relationship between age and the number of patients.
